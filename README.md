@@ -1,7 +1,7 @@
 # Netflix Data Analysis: 1,046 Indian Titles for MSc Italy 2027
 
 ### MSc Data Science Italy 2027 Application Project
-**Author:** Drijil Pandit | BSc IT, Mumbai University 
+**Author:** Drijil Pandit | BSc IT, Mumbai University             
 **Location:** CBD Belapur, Navi Mumbai, India  
 **Target Universities:** University of Bologna / Sapienza University Rome / University of Padova
 
