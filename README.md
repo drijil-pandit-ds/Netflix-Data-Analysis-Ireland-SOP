@@ -1,4 +1,4 @@
-# Netflix Data Analysis: 1,046 Indian Titles for MSc Italy 2027
+# Netflix Data Analysis: 1,046 Indian Titles for MSc Italy 2028
 
 ### MSc Data Science Italy 2027 Application Project
 **Author:** Drijil Pandit | BSc IT, Mumbai University             
